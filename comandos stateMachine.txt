@@ -1,0 +1,14 @@
+#g<p>; : get
+#s<p><v>; : set
+#a<rx>; : awnser
+
+t:temperature
+r: reference temp
+h: heater pwm
+c: cooler pwm
+p: Kp pid
+i: Ki pid
+d: Kd pid
+s: speed
+l: interfaceLock
+a: all

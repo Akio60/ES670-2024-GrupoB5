@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "matrixkeyboard.h": "c",
+        "buttonsevents.h": "c",
+        "main.h": "c",
+        "tim.h": "c",
+        "led.h": "c",
+        "stm32g4xx_hal.h": "c",
+        "tachometer.h": "c"
+    }
+}
